@@ -22,6 +22,6 @@ chmod +x Downloader.sh
 ./Downloader.sh url.txt
 
 ```
-
+11. It will download all images that are in your .txt file
 
 Good luck !
