@@ -4,9 +4,9 @@
 This project is for downloading images through your web browser's console and contains two section.
 
 **How it works?**
-1. Open image.google.com
+1. Open [Google image](image.google.com)
 2. Search your keyword
-3. Open js console of your web
+3. Open js console of your web browser
 4. Copy first two pieces of ImageCrawler.js code into console and press enter
 5. Then scroll
 6. Copy last piece of ImageCrawler.js code into console and press enter. 
